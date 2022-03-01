@@ -1,4 +1,4 @@
-👋 Hi, I’m Aarushi. 
+👋🏽 Hi, I’m Aarushi. 
 🎓A software engineering student at the University of Calgary.
 🌱 I’m currently learning web/app dev.
 📫 You can reach me at aarushiRC14@gmail.com
