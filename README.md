@@ -1,6 +1,7 @@
 👋🏽 Hi, I’m Aarushi. 
-🎓A software engineering student at the University of Calgary.
-📫 You can reach me at aarushiRC14@gmail.com
+🎓 A 3rd year software engineering student @ University of Calgary.
+💼 Data Science Intern @ Bird Construction.
+📫 You can reach me @ aarushiRC14@gmail.com
 
 <!---
 aarushirc14/aarushirc14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
