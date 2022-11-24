@@ -1,5 +1,5 @@
 👋🏽 Hi, I’m Aarushi.  <br />
-🎓 3rd year software engineering student @ University of Calgary.  <br />
+🎓 3rd year Software Engineering student @ University of Calgary.  <br />
 💼 Data Science Intern @ Bird Construction.  <br />
 📫 You can reach me @ aarushiRC14@gmail.com  <br />
 
