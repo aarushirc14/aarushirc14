@@ -1,9 +1,7 @@
 👋🏽 Hi, I’m Aarushi.  <br />
-🎓 A 3rd year software engineering student @ University of Calgary.
-💼 Data Science Intern @ Bird Construction.
-📫 You can reach me @ aarushiRC14@gmail.com
+🎓 A 3rd year software engineering student @ University of Calgary.  <br />
+💼 Data Science Intern @ Bird Construction.  <br />
+📫 You can reach me @ aarushiRC14@gmail.com  <br />
 
-<!---
-aarushirc14/aarushirc14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**CONTENT USAGE DISCLAIMER: I have posted my assignments, labs and projects from UofC for the benefit of other students and to show my personal portfolio. Please do not copy/paste my work and try to pass it off as your own. UofC has strict policies againt plagiarism and may use similarity detection softwares. Please cite as necessary and only use content from this repo as a reference.
+
