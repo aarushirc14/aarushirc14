@@ -1,6 +1,6 @@
 👋🏽 Hi, I’m Aarushi.  <br />
 🎓 3rd year Software Engineering student @ University of Calgary.  <br />
-📫 You can reach me @ aarushiRC14@gmail.com  <br />
+📫 Feel free to reach out @ aarushiRC14@gmail.com  <br />
 <br />
 
 Past Experiences  <br />
