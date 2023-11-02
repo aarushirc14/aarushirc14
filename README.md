@@ -1,7 +1,6 @@
-👋🏽 Hi, I’m Aarushi.  <br />
+
 🎓 3rd year Software Engineering student @ University of Calgary.  <br />
-📫 Feel free to reach out @ aarushiRC14@gmail.com  <br />
-<br />
+
 
 Past Experiences  <br />
 💼 May-Aug 2023: Data Analyst Intern @ PETRONAS. <br />
