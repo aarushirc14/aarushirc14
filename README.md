@@ -1,4 +1,4 @@
-
+👋🏽 Hi, I'm Aarushi <br />
 🎓 3rd year Software Engineering student @ University of Calgary.  <br />
 
 
