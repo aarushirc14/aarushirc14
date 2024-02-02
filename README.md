@@ -11,7 +11,7 @@
 
 <h2 align="left">Past Internships</h2>
 
-- Data Analyst Intern the @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
+- Data Analyst Intern @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
   
 - Data Science Intern @ [Bird Construction](https://www.bird.ca/) : May-Dec 2022
   
