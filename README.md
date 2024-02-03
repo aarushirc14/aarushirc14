@@ -6,9 +6,6 @@
 - 💼 a Data Science Intern @ [Intact Financial Corporation](https://www.intactfc.com/)
   
 - 🌱 learning how to use HuggingFace transformers such as [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta) and [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert)
-  
-- 🍽️ cooking biriyani while my models train
-
 <h2 align="left">Past Internships</h2>
 
 - Data Analyst Intern @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
