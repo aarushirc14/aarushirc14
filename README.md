@@ -12,7 +12,7 @@
   
 - Data Analytics Intern @ [Bird Construction](https://www.bird.ca/) : May-Dec 2022
   
-- Commerce Intern @ [Shopify](https://www.shopify.com/)  : Jan-May 2022
+- Commerce Intern @ [Shopify](https://www.shopify.com/)  : Feb-May 2022
 
 <h2 align="left">Connect</h2>
 
