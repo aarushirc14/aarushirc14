@@ -5,12 +5,12 @@
 
 - 💼 a Data Science Intern @ [Intact Financial Corporation](https://www.intactfc.com/)
   
-- 🌱 learning how to use HuggingFace transformers such as [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta) and [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert)
+- 🌱 exploring NLP and learning how to use HuggingFace transformers such as [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta) and [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert)
 <h2 align="left">Past Internships</h2>
 
-- Data Analyst Intern @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
+- Data Analytics Intern @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
   
-- Data Science Intern @ [Bird Construction](https://www.bird.ca/) : May-Dec 2022
+- Data Analytics Intern @ [Bird Construction](https://www.bird.ca/) : May-Dec 2022
   
 - Commerce Intern @ [Shopify](https://www.shopify.com/)  : Jan-May 2022
 
