@@ -3,7 +3,7 @@
 
 - 🎓 a 3rd year software engineering student @ the [University of Calgary](https://www.ucalgary.ca/)
 
-- 💼 a Data Science Intern @ [Intact Financial Corporation](https://www.intactfc.com/)
+- 💼 a Data Science Intern @ [Intact Insurance ](https://www.intactfc.com/)
   
 - 🌱 exploring NLP and learning how to use models such as [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta) and [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert)
 <h2 align="left">Past Internships</h2>
