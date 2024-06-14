@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Aarushi</h1>
 <h2 align="left">Currently I am</h2>
 
-- 🎓 a 3rd year software engineering student @ the [University of Calgary](https://www.ucalgary.ca/)
+- 🎓 a 4th year software engineering student @ the [University of Calgary](https://www.ucalgary.ca/)
 
 - 💼 a Technical Product Management Intern @ [S&P](https://www.spglobal.com/en)
   
