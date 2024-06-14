@@ -3,10 +3,12 @@
 
 - 🎓 a 3rd year software engineering student @ the [University of Calgary](https://www.ucalgary.ca/)
 
-- 💼 a Data Science Intern @ [Intact Insurance ](https://www.intactfc.com/)
+- 💼 a Technical Product Management Intern @ [S&P](https://www.spglobal.com/en)
   
 - 🌱 exploring NLP and learning how to use models such as [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta) and [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert)
 <h2 align="left">Past Internships</h2>
+
+- Data Science Intern @ [Intact Insurance](https://www.intactfc.com/)
 
 - Data Analytics Intern @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
   
