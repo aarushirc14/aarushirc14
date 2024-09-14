@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋🏽, I'm Aarushi</h1>
 <h2 align="left">Currently I am</h2>
 
-- 🎓 a 4th year software engineering student @ the [University of Calgary](https://www.ucalgary.ca/)
+- 🎓 a final year software engineering student @ the [University of Calgary](https://www.ucalgary.ca/)
 
-- 💼 a Technical Product Management Intern @ [S&P](https://www.spglobal.com/en)
-  
-- 🌱 exploring NLP and learning how to use models such as [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta) and [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert)
 <h2 align="left">Past Internships</h2>
 
-- Data Science Intern @ [Intact Insurance](https://www.intactfc.com/) : Jan-Apr 2024
+- Technical Product Management Intern @ [S&P](https://www.spglobal.com/en) May-Aug 2024
 
-- Data Analytics Intern @ [PETRONAS](https://www.petronas.com/) : May-Aug 2023
+- Data Science Intern @ [Intact Insurance](https://www.intactfc.com/) Jan-Apr 2024
+
+- Data Analytics Intern @ [PETRONAS](https://www.petronas.com/) May-Aug 2023
   
-- Data Analytics Intern @ [Bird Construction](https://www.bird.ca/) : May-Dec 2022
+- Data Analytics Intern @ [Bird Construction](https://www.bird.ca/) May-Dec 2022
   
-- Commerce Intern @ [Shopify](https://www.shopify.com/)  : Feb-May 2022
+- Commerce Intern @ [Shopify](https://www.shopify.com/) Feb-May 2022
 
 <h2 align="left">Connect</h2>
 
