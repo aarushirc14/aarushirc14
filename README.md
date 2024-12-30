@@ -11,7 +11,7 @@
 
 - Data Analytics Intern @ [PETRONAS](https://www.petronas.com/) May-Aug 2023
   
-- Data Analytics Intern @ [Bird Construction](https://www.bird.ca/) May-Dec 2022
+- Data Science Intern @ [Bird Construction](https://www.bird.ca/) May-Dec 2022
   
 - Commerce Intern @ [Shopify](https://www.shopify.com/) Feb-May 2022
 
