@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Aarushi</h1>
-<h2 align="left">Currently I am</h2>
+<h2 align="left">Currently I Am</h2>
 
 - 💼 Product Manager @ [S&P](https://www.spglobal.com/en)
 - 🎓 New Grad Software Engineer from the [University of Calgary](https://www.ucalgary.ca/)
