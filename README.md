@@ -2,7 +2,7 @@
 <h2 align="left">Currently I am</h2>
 
 - 💼 Product Manager @ [S&P](https://www.spglobal.com/en)
-- 🎓 New grad software engineer from the [University of Calgary](https://www.ucalgary.ca/)
+- 🎓 New Grad Software Engineer from the [University of Calgary](https://www.ucalgary.ca/)
 
 <h2 align="left">Past Internships</h2>
 
