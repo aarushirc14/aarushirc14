@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Aarushi</h1>
 <h2 align="left">Currently I Am</h2>
 
-- 💼 Product Manager @ [OpenHouse.ai](https://openhouse.ai)
+- 💼 Product Manager
 - 🎓 Software Engineer Grad from the [University of Calgary](https://www.ucalgary.ca/)
 
 <h2 align="left">Past Experience </h2>
