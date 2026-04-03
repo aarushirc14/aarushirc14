@@ -6,9 +6,9 @@
 
 <h2 align="left">Past Experience </h2>
 
+- I got bored at my new grad return offer so I left to work at a startup
+  
 - Product Manager @ [S&P](https://www.spglobal.com/en) New Grad Rotation Program July-Nov 2025
-
-- I got bored at my new grad return offer so I left to work at a startup 
 
 - Technical Product Management Intern @ [S&P](https://www.spglobal.com/en) May-Aug 2024
 
