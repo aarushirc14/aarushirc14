@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋🏽, I'm Aarushi</h1>
 <h2 align="left">Currently I Am</h2>
 
-- 💼 Product Manager
-- 🎓 Software Engineer Grad from the [University of Calgary](https://www.ucalgary.ca/)
+- 💼 Product Manager @ [OpenHouse.ai](https://openhouse.ai/)
+- 🎓 Software Engineer Grad @ [University of Calgary](https://www.ucalgary.ca/)
 
 <h2 align="left">Past Experience </h2>
 
 - I got bored at my new grad return offer so I left to work at a startup
   
-- Product Manager @ [S&P](https://www.spglobal.com/en) New Grad Rotation Program July-Nov 2025
+- Software Engineer @ [S&P](https://www.spglobal.com/en) New Grad Rotation Program Jun-Nov 2025
 
-- Technical Product Management Intern @ [S&P](https://www.spglobal.com/en) May-Aug 2024
+- Software Engineer Intern @ [S&P](https://www.spglobal.com/en) May-Aug 2024
 
 - Data Science Intern @ [Intact Insurance](https://www.intactfc.com/) Jan-Apr 2024
 
